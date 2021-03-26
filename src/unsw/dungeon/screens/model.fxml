@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.paint.RadialGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+
+<Pane fx:id="back" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+    <Button fx:id="level4" layoutX="159.0" layoutY="357.0" mnemonicParsing="false" onAction="#handleLevel4" style="-fx-background-color: black; -fx-border-color: white;" text="Level 4">
+         <font>
+            <Font name="Courier Bold Oblique" size="24.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.511204481792717" centerY="0.5" radius="0.5">
+               <stops>
+                  <Stop color="#fff9f9" />
+                  <Stop color="#fff9f9" offset="0.007532956685499058" />
+                  <Stop color="#908989" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Button>
+      <Button fx:id="level3" layoutX="159.0" layoutY="300.0" mnemonicParsing="false" onAction="#handleLevel3" style="-fx-background-color: black; -fx-border-color: white;" text="Level 3">
+         <font>
+            <Font name="Courier Bold Oblique" size="24.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.511204481792717" centerY="0.5" radius="0.5">
+               <stops>
+                  <Stop color="#fff9f9" />
+                  <Stop color="#fff9f9" offset="0.007532956685499058" />
+                  <Stop color="#908989" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Button>
+      <Button fx:id="level2" layoutX="159.0" layoutY="242.0" mnemonicParsing="false" onAction="#handleLevel2" style="-fx-background-color: black; -fx-border-color: white;" text="Level 2">
+         <font>
+            <Font name="Courier Bold Oblique" size="24.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.511204481792717" centerY="0.5" radius="0.5">
+               <stops>
+                  <Stop color="#fff9f9" />
+                  <Stop color="#fff9f9" offset="0.007532956685499058" />
+                  <Stop color="#908989" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Button>
+      <Button fx:id="level1" layoutX="159.0" layoutY="179.0" mnemonicParsing="false" onAction="#handleLevel1" style="-fx-background-color: black; -fx-border-color: white;" text="Level 1">
+         <font>
+            <Font name="Courier Bold Oblique" size="24.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.511204481792717" centerY="0.5" radius="0.5">
+               <stops>
+                  <Stop color="#fff9f9" />
+                  <Stop color="#fff9f9" offset="0.007532956685499058" />
+                  <Stop color="#908989" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Button>
+      <Button fx:id="backs" layoutX="527.0" layoutY="521.0" mnemonicParsing="false" onAction="#handleBack" text="Back" />
+      <Button fx:id="level5" layoutX="326.0" layoutY="179.0" mnemonicParsing="false" onAction="#handleLevel5" style="-fx-background-color: black; -fx-border-color: white;" text="Level 5">
+         <font>
+            <Font name="Courier Bold Oblique" size="24.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.511204481792717" centerY="0.5" radius="0.5">
+               <stops>
+                  <Stop color="#fff9f9" />
+                  <Stop color="#fff9f9" offset="0.007532956685499058" />
+                  <Stop color="#908989" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Button>
+      <Button fx:id="level6" layoutX="326.0" layoutY="242.0" mnemonicParsing="false" onAction="#handleLevel6" style="-fx-background-color: black; -fx-border-color: white;" text="Level 6">
+         <font>
+            <Font name="Courier Bold Oblique" size="24.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.511204481792717" centerY="0.5" radius="0.5">
+               <stops>
+                  <Stop color="#fff9f9" />
+                  <Stop color="#fff9f9" offset="0.007532956685499058" />
+                  <Stop color="#908989" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Button>
+      <Button fx:id="level7" layoutX="326.0" layoutY="300.0" mnemonicParsing="false" onAction="#handleLevel7" style="-fx-background-color: black; -fx-border-color: white;" text="Level 7">
+         <font>
+            <Font name="Courier Bold Oblique" size="24.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.511204481792717" centerY="0.5" radius="0.5">
+               <stops>
+                  <Stop color="#fff9f9" />
+                  <Stop color="#fff9f9" offset="0.007532956685499058" />
+                  <Stop color="#908989" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Button>
+      <Button fx:id="Level8" layoutX="326.0" layoutY="357.0" mnemonicParsing="false" onAction="#handleLevel8" style="-fx-background-color: black; -fx-border-color: white;" text="Level 8">
+         <font>
+            <Font name="Courier Bold Oblique" size="24.0" />
+         </font>
+         <textFill>
+            <RadialGradient centerX="0.511204481792717" centerY="0.5" radius="0.5">
+               <stops>
+                  <Stop color="#fff9f9" />
+                  <Stop color="#fff9f9" offset="0.007532956685499058" />
+                  <Stop color="#908989" offset="1.0" />
+               </stops>
+            </RadialGradient>
+         </textFill>
+      </Button>
+   </children>
+</Pane>
